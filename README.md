@@ -1,6 +1,6 @@
 # JSON Unicode Decoder
 
-JSON データの Unicode 文字列をデコードして人が読める形に変換する Web アプリケーションです。
+JSON データの Unicode 文字列をデコードして人が読める形に変換する Web アプリケーションです
 
 ## 🚀 開発環境セットアップ
 
